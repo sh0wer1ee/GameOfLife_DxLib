@@ -3,6 +3,6 @@
 
 ## Compiling
 1.Get the DxLib first.
-  *DX Library Copyright (C) 2001-2016 Takumi Yamada.*
+  *DX Library Copyright (C) 2001-2018 Takumi Yamada.*
   Please refer to http://dxlib.o.oo7.jp/index.html
 2.open the .sln and build.
