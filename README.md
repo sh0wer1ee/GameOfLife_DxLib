@@ -9,5 +9,5 @@ Please refer to http://dxlib.o.oo7.jp/index.html
 
 ## Screenshot
 You can change the refresh speed or the number of cells in the header.
-![screenshot0001](https://github.com/showerlee9/GameOfLife_DxLib/blob/master/screenshot0001.png)
-![screenshot0002](https://github.com/showerlee9/GameOfLife_DxLib/blob/master/screenshot0002.png)
+![screenshot0001](https://github.com/sh0wer1ee/GameOfLife_DxLib/blob/master/screenshot0001.png)
+![screenshot0002](https://github.com/sh0wer1ee/GameOfLife_DxLib/blob/master/screenshot0002.png)
